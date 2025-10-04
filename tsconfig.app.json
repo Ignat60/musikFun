@@ -3,6 +3,8 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]
+      // Тима добавил в учебных целях
+      // "@auth": ["src/features/auth"]
     },
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
     "target": "ES2022",
