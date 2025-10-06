@@ -3,7 +3,8 @@ import { ProfilePage } from "@/features/auth/ui/profilePage/ProfilePage";
 import { PlaylistsPage } from "@/features/playlist/ui/PlaylistsPage";
 import { TracksPage } from "@/features/tracks/ui/TracksPage";
 import { Route, Routes } from "react-router-dom";
-import { PageNotFound } from "../commonComponents/pageNotFound/PageNotFound";
+// import { PageNotFound } from "../components";
+import { PageNotFound } from "@/common/components";
 
 export const Path = {
   Main: "/",
