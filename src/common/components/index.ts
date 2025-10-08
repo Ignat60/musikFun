@@ -1,2 +1,2 @@
-// import { PageNotFound } from './pageNotFound/PageNotFound';
 export { PageNotFound } from "./pageNotFound/PageNotFound";
+export { Header } from "./header/Header";
