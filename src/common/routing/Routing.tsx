@@ -1,4 +1,4 @@
-import { MainPage } from "@/app/ui/mainPage/MainPage";
+import { MainPage } from "@/app/ui/MainPage/MainPage";
 import { ProfilePage } from "@/features/auth/ui/profilePage/ProfilePage";
 import { PlaylistsPage } from "@/features/playlist/ui/PlaylistsPage";
 import { TracksPage } from "@/features/tracks/ui/TracksPage";
